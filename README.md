@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 Hi, I'm dony. 💖  
 I'm a Front-end junior developer. 🌱  
   
-<br>
+<!-- <br> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jindonyy&show_icons=true&theme=algolia)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jindonyy&show_icons=true&theme=algolia) -->
 <!--  
 <br>
 
