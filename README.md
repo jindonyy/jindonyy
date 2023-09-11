@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm dony. 💖  
-I'm a Front-end junior developer. 🌱  
+Hi, I'm dony. 💖
   
 <!-- <br> -->
 
